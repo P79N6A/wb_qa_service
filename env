@@ -1,0 +1,15 @@
+pip list
+
+codegen (1.0)
+Django (1.8.2)
+django-filter (0.13.0)
+djangorestframework (3.4.3)
+gevent (1.1.2)
+greenlet (0.4.10)
+gunicorn (19.6.0)
+Markdown (2.6.6)
+patterns (0.3)
+pip (8.1.2)
+setuptools (25.1.6)
+web.py (0.37)
+wheel (0.29.0)
